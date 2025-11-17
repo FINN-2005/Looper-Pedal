@@ -18,12 +18,12 @@ The system is built using sounddevice, processes audio in real time through call
 # Usage
 
 Run the script:  
-  ``` python looper.py ```
-Controls:  
+  ``` python looper.py ```  
+### Controls:  
 - SPACE → Start first recording / stop and set loop length / toggle overdub mode
 - C → Clear the current loop  
 - Q → Quit the program  
-Workflow:  
+### Workflow:  
 - Press SPACE to begin the first recording.  
 - Press SPACE again to close the loop — playback begins immediately.  
 - Press SPACE again to toggle overdubbing (layering).  
